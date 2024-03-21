@@ -30,7 +30,7 @@ class InstagramClone extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             _buildPost(
-              username: 'user1',
+              username: 'Berk Çavuşoğlu',
               userImage: 'assets/user1.jpg',
               postImage: 'assets/post1.jpg',
               caption: 'Güzel bir manzara!',
